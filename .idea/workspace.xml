@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d2c1884-b585-4fce-8897-1b9bf9738e8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/1to50.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/1to50.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/screen_scrape.py" beforeDir="false" afterPath="$PROJECT_DIR$/screen_scrape.py" afterDir="false" />
     </list>
@@ -87,41 +84,66 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586037278533</updated>
-      <workItem from="1586044027582" duration="3943000" />
+      <workItem from="1586044027582" duration="4289000" />
+      <workItem from="1586051205125" duration="2007000" />
     </task>
+    <task id="LOCAL-00001" summary="Final product">
+      <created>1586048661903</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586048661903</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Final product" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final product" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1586048492026">
+    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1586048661291">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586048492026" />
+    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586048661291" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1586052773807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586052773807" />
     <state width="557" height="284" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1586042339055" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1586048492026">
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1586052773807">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586048492026" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586052773807" />
     <state width="557" height="284" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1586042339054" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1586048492026">
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1586052773807">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586048492026" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586052773807" />
     <state width="557" height="284" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1586042339054" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1586048492026">
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1586052773807">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586048492026" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586052773807" />
     <state width="557" height="284" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1586042339055" />
     <state x="0" y="168" key="SettingsEditor" timestamp="1586044053408">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="168" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586044053408" />
     <state x="0" y="200" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1586038064476" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1586048665475">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586048665475" />
+    <state x="655" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1586051205123">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586051205123" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/1to50_Automation$screen_scrape.coverage" NAME="screen_scrape Coverage Results" MODIFIED="1586048492019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1to50_Automation$screen_scrape.coverage" NAME="screen_scrape Coverage Results" MODIFIED="1586052773798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

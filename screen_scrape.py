@@ -10,10 +10,11 @@ chrome_driver = "#### DRIVER PATH ####"
 
 def open_browser():
     driver = webdriver.Chrome(chrome_driver)
+    driver.maximize_window()
     driver.get(url)
     time.sleep(0.8)
 
-#   time.sleep(5)
+    #time.sleep(5)
 
     for i in range(2):
         list_box = driver.find_elements_by_class_name('grid')[0].find_elements_by_tag_name('div')
@@ -26,7 +27,7 @@ def open_browser():
         print(sequence)
         for index in sequence:
             list_box[index].click()
-            time.sleep(0.02)
-
+            time.sleep(0.002)
+        time.sleep(0.1)
     time.sleep(5)
 print(open_browser())
